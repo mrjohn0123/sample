@@ -1,0 +1,31 @@
+From 2b012d814ff158f925ef5a816fa761b64400dea7 Mon Sep 17 00:00:00 2001
+From: mubashir658 <mohammedmubashirali658@gmail.com>
+Date: Sat, 26 Jul 2025 10:07:01 +0530
+Subject: [PATCH] adding 4 files of different formats
+
+---
+ Main.java     | 0
+ Main.xml      | 0
+ index.html    | 0
+ mubashir.text | 0
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Main.java
+ create mode 100644 Main.xml
+ create mode 100644 index.html
+ create mode 100644 mubashir.text
+
+diff --git a/Main.java b/Main.java
+new file mode 100644
+index 0000000..e69de29
+diff --git a/Main.xml b/Main.xml
+new file mode 100644
+index 0000000..e69de29
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..e69de29
+diff --git a/mubashir.text b/mubashir.text
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.50.1.windows.1
+
